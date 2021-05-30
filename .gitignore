@@ -33,3 +33,4 @@
 
 # Secret Stuff
 secrets.h
+keys/*
